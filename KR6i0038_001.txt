@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:08:21.992874
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:17
 #+TITLE: 觀彌勒上生兜率天經贊
 #+PROPERTY: CBETA_ID T38n1772
 #+PROPERTY: ID KR6i0038
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 38, No. 1772
 #+PROPERTY: VOL 38
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0038_T_000-0272b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0038_T_001-0272b> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1772[cf.No.452]¶
-
- 觀彌勒菩薩上兜率天經題序¶
+No. 1772 [cf. No. 452]¶
+觀彌勒菩薩上兜率天經題序¶
 ¶
 大慈恩寺基撰¶
 
@@ -317,9 +316,9 @@ No.1772[cf.No.452]¶
 　隨順諸戒行
 　如是疾得佛¶
 　必至大涅槃
-　常受無上樂
+　常受無上樂」
 #+END_VERSE
-」¶
+¶
 
 說此偈已告諸菟言。我今以身欲供養法。汝¶
 等隨喜。我從多劫三毒所使為鳥獸形虛受¶
@@ -344,9 +343,9 @@ No.1772[cf.No.452]¶
 　不忍噉肉食眾生¶
 　如佛所說食肉者
 　此人行慈不滿足¶
-　當受短命多病身
+　當受短命多病身」
 #+END_VERSE
-」¶
+¶
 
 仙發誓言。願我世世不起殺想。恒不噉肉。入¶
 慈三昧。乃至成佛制斷肉戒。語已投火而死。¶
@@ -800,7 +799,7 @@ No.1772[cf.No.452]¶
 
 一時。
 
-贊曰。第二說教時分也。法王啟化。機¶
+讚曰。第二說教時分也。法王啟化。機¶
 器咸集。說聞事訖總名一時。此就剎那相續¶
 無斷說聽究竟假立名。論有二解。一道理時。¶
 說聽之徒雖唯現在五蘊。諸行剎那生滅。即¶
