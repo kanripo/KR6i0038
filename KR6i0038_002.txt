@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:08:22.050133
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:17
 #+TITLE: 觀彌勒上生兜率天經贊
 #+PROPERTY: CBETA_ID T38n1772
 #+PROPERTY: ID KR6i0038
@@ -1477,7 +1477,7 @@
 　欣以此法施
 　順次詣都率¶
 　慈尊受教誡
-　顯法身無相
+　顯法身無相」
 #+END_VERSE
-」¶
+¶
 觀彌勒菩薩上生兜率天經贊卷下終
